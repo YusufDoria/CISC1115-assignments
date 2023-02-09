@@ -1,3 +1,8 @@
+/*
+Declare 2 double variables, use division and print the answer with the formula
+Declare 2 integers and show integer division and modulus on these integer variables.
+*/
+
 public class Lab2b {
     public static void main(String [] args) {
         double num1 = 5.0;
