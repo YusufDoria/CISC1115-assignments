@@ -9,6 +9,7 @@ Today is Monday, and in 14 days the day of the week will be Monday.
 import java.util.Scanner;
 
 public class hw2 {
+
     public static String getDay(int futureDayNum, int today) {
         String day = "";
         if ((futureDayNum%7 + today)%7 == 1) {
@@ -41,7 +42,7 @@ public class hw2 {
         System.out.println("How many days in the future?");
         int futureDay = (userDay.nextInt());
         userDay.close();
-        System.out.printf("Today is %s, and in %d days it will be %s", getDay(0,day), futureDay, getDay(futureDay, day));
+        System.out.printf("Today is %s, and in %d days it will be %s \n", getDay(0,day), futureDay, getDay(futureDay, day));
         
     }
 }
