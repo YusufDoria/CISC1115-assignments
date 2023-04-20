@@ -1,0 +1,23 @@
+java/jdt_ws/CISC1115_5f4cd7ea/bin hw7 
+Enter answer for question 1
+a
+Enter answer for question 2
+c
+Enter answer for question 3
+d
+Enter answer for question 4
+b
+Enter answer for question 5
+a
+Enter answer for question 6
+d
+Enter answer for question 7
+c
+Enter answer for question 8
+b
+Enter answer for question 9
+c
+Enter answer for question 10
+b
+You passed with a grade of 100%                                                                                    
+yusufdoria@Yusufs-MacBook-Pro CISC1115 % 
